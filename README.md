@@ -1,9 +1,9 @@
 # Seminário Técnico: Programação Funcional com Haskell — Tema 11
 
 **Disciplina:** Programação Imperativa e Funcional | CESAR School (2026.2)  
-**Professor:** Roni Maciel (`rsm4@cesar.school`)  
+**Professor:** Roni Maciel  
 **Tema 11:** Tipagem forte e conversões numéricas em um planejador de viagens (Bloco C)  
-**Equipe:** `[Inserir Nome da Equipe]`  
+**Equipe:** `[Equipe de Viagens]`  
 **Integrantes:**
 * `[Lucas Berenguer]`
 * `[Arthur Afonso]`
