@@ -3,14 +3,14 @@
 **Disciplina:** Programação Imperativa e Funcional | CESAR School (2026.2)  
 **Professor:** Roni Maciel  
 **Tema 11:** Tipagem forte e conversões numéricas em um planejador de viagens (Bloco C)  
-**Equipe:** `[Equipe de Viagens]`  
+**Equipe:** `Equipe de Viagens`  
 **Integrantes:**
-* `[Lucas Berenguer]`
-* `[Arthur Afonso]`
-* `[Silvio Lobo]`
-* `[Marcos Felipe]`
-* `[Cauã Arruda]`
-* `[João Paulo]`
+* `Lucas Berenguer`
+* `Arthur Afonso`
+* `Silvio Lobo`
+* `Marcos Felipe`
+* `Cauã Arruda`
+* `João Paulo`
 
 ---
 
