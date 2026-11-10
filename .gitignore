@@ -1,0 +1,17 @@
+# Artifacts de compilacao do GHC (Haskell)
+*.hi
+*.o
+*.dyn_hi
+*.dyn_o
+
+# Executaveis (Windows, Linux e macOS)
+*.exe
+exemplo1
+aplicacao
+comparacao
+programa
+
+# Arquivos temporarios do GHCi e cabal
+.ghc.environment.*
+dist-newstyle/
+.stack-work/
